@@ -1,0 +1,47 @@
+# 운영체제 파일
+.DS_Store
+Thumbs.db
+
+# 빌드 폴더
+/build/
+/bin/
+target/
+
+# 로그 파일
+*.log
+
+# 임시 파일
+*.tmp
+*.temp
+*.bak
+
+# 패키지 매니저
+node_modules/
+*.lock
+
+# 자바 관련
+*.class
+*.jar
+*.war
+*.ear
+
+# 데이터베이스 파일
+*.db
+
+# 이클립스, STS IDE 관련
+.project
+.metadata
+.classpath
+.settings/
+.loadpath
+
+# IntelliJ IDEA 관련
+.idea/
+*.iml
+out/
+
+# VSCode 관련
+.vscode/
+
+# 환경 설정 파일
+.env
